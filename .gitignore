@@ -159,4 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 project_0/
-Проект_0_угадай_число_baseline/
+Проект_0_угадай_число_baseline.ipynb/
+
