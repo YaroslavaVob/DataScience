@@ -1,5 +1,0 @@
-second list
-first list
-second string
-First string
-Start of file
