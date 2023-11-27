@@ -1,3 +1,5 @@
+"""Угадать число, введенное пользователем с клавиатуры"""
+
 import numpy as np
 
 number = np.random.randint(1, 101) # загадываем число
@@ -16,4 +18,5 @@ while True:
     else:
         print(f"Вы угадали число! Это число = {number}, за {count} попыток")
         break # конец игры, выход из цикла
-    print(predict_number)
+    
+    
