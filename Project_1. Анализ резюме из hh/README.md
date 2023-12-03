@@ -82,6 +82,9 @@
 
 
 
+<font color = 'springgreen'>**ОСОБЕННОСТИ:**</font>\
+Функции, используемые в проекте, содержатся в отдельном файле: папка data functions.py
+
 
 ### Какие библиотеки использовались для анализа:
 <font color = 'springblue'>pandas</font>\
