@@ -1,6 +1,7 @@
 # <center><font color = 'springgreen'>Анализ резюме из HeadHunter</font></center>
 
-Данный датасет представляет собой анализ резюме с сайта по поиску работы hh.ru.
+**Данный датасет представляет собой анализ резюме с сайта по поиску работы hh.ru.**
+
 ![](https://www.vyatsu.ru/uploads/2015/12/23//large/poisk_raboti.jpg)
 
 **Загрузить и посмотреть исходные данные можно [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)**
