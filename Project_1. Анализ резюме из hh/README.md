@@ -80,7 +80,8 @@
 * почти треть соискателей готова к переезду и командировкам;
 * 93% соискателей предпочитают полную занятость, полный рабочий день.
 
-
+<font color = 'springgreen'>**Рекомендация:**</font>\
+Увидеть проект с визуализацией, которая наглядно демонстрирует наше исследование, можно [**здесь**](https://nbviewer.org/github/YaroslavaVob/DataScience_skillfactory/blob/dfda986fac0e01d744898e81d75aba3ffb2e8be6/Project_1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20hh/Project-1._Data%20Analysis%20of%20resumes%20%28hh.ru%29.ipynb)
 
 <font color = 'springgreen'>**ОСОБЕННОСТИ:**</font>\
 Функции, используемые в проекте, содержатся в отдельном файле: папка data functions.py
