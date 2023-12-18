@@ -67,7 +67,7 @@
 
 
 <font color = 'orange'>**Рекомендация:**</font>\
-Лучше познакомиться с проектом по [**ссылке**](https://nbviewer.org/github/YaroslavaVob/DataScience_skillfactory/blob/dfda986fac0e01d744898e81d75aba3ffb2e8be6/Project_1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20hh/Project-1._Data%20Analysis%20of%20resumes%20%28hh.ru%29.ipynb), где вы можете посмотреть зависимости между признаками наглядно на графиках.
+Лучше познакомиться с проектом по [**ссылке**](https://nbviewer.org/github/YaroslavaVob/DataScience_skillfactory/blob/d200b22b0c48cf564fa53dca6937fc9d94dc8ab3/Project_2.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20HeadHunter/Project_2_Analysis%20of%20vacancies%20of%20site%20Headhunter.ipynb), где вы можете посмотреть зависимости между признаками наглядно на графиках.
 
 ### Какие библиотеки использовались для анализа:
 <font color = 'springblue'>pandas</font>\
