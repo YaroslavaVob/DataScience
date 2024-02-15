@@ -22,6 +22,16 @@ Python and SQL
 requirements.txt
 .vscode
 Public_project
+EDA. Проектирование экспериментов
+Project_3. Анализ зарплат data Science
+Project_2. Анализ вакансий сайта HeadHunter
+Project_1. Анализ резюме из hh
+Kaggle
+*.idea
+*data
+*.html
+шаблон EDA_Project_3_model.ipynb
+
 
 
 
