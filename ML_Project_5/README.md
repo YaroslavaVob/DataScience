@@ -70,7 +70,7 @@
 
 
 
-А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/YaroslavaVob/DataScience_skillfactory/blob/main/Project_4_Classification/Project_4_ML.ipynb).
+А теперь переходим по ссылке и знакомимся с проектом [здесь](https://github.com/YaroslavaVob/DataScience/blob/main/ML_Project_5/Project-5._Trip_duration_for_taxi%20github.ipynb).
 
 
 ### Какие библиотеки использовались для анализа:
