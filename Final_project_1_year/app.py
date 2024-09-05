@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # импортируем необходимые библиотеки
 import warnings
 warnings.filterwarnings("ignore")
