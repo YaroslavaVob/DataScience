@@ -266,7 +266,7 @@ def make_prediction(data, n):
         data['y'].iloc[-1] = forecast['yhat1'].iloc[-1]
     return forecast
 
-forecast = make_prediction(df_close, n=n)
+forecast = make_prediction(df_close, n)
 idx = forecast[forecast['ds']==df_close['ds'].iloc[-1]].index[0]
 forecast['y'].iloc[idx+1:] = np.NaN
 
