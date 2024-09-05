@@ -55,10 +55,10 @@ To use the application, you need:
 2. Specify for how long you want to predict Closing Price of this stock.''')
 
 # пользователь вводит тикер акции
-X = st.text_input('Please enter ticker name (samples: AAPL, NVDA, GOOG, AMD, MSFT, TSLA, INTC)')
+X = st.text_input('Please enter ticker name (samples: AAPL, NVDA, GOOG, AMD, MSFT, TSLA, INTC)', value='INTC')
 # применяем функцию для загрузки данных с сайта
 try: 
-    stock, lst, stock_data = read_data(X='INTC')
+    stock, lst, stock_data = read_data(X)
 except:
     st.write('В текущий момент ошибка доступа, попробуйте еще раз')
 # презентуем данные о компании
