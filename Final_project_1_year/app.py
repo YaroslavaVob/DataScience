@@ -564,4 +564,3 @@ st.sidebar.markdown('#### Forecast')
 # переименуем названия столбцов
 forecast = forecast.rename(columns={'ds': 'Date', 'y': 'True Price of stock', 'yhat1': 'Predicted Price'})
 st.sidebar.dataframe(forecast[['Date','True Price of stock', 'Predicted Price']])
->>>>>>> 74ac17adb01f56f474795812c69e7847c8369cc9
